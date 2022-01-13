@@ -2,7 +2,7 @@ window.onload = screenWidth;
 window.onresize = screenWidth;
 
 function screenWidth() {
-    width = window.innerWidth
+    var width = window.innerWidth
     var widthpx = width + "px"
 
     if (width > 600) {
