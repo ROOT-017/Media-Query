@@ -15,11 +15,11 @@
         height: 100vh;
         display: flex;
         flex-direction: column;
-        gap: 30px;
+        gap: 25px;
     }
     
     [class^=row-] {
-        gap: 30px;
+        gap: 20px;
         display: flex;
     }
     
